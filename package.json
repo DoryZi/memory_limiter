@@ -1,6 +1,6 @@
 {
   "name": "memory limiter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small library for restarting a process once it reachs a certain memory size",
   "main": "index.js",
   "repository": {
